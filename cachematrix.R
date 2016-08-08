@@ -1,7 +1,5 @@
 ## Set of functions for solving the second assigment. Focus on clarity rather than code volume minimization.
 
-## Write a short comment describing this function
-
 ## This function caches the inverted matrix, enables passing the input matrix and returns list of access functions, 
 
 makeCacheMatrix <- function(x = matrix()) {
